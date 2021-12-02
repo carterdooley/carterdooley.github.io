@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    background-color: lightslategrey;
+}
+
+p {
+    font-size: larger;
+    text-indent: 50px;
+    font-family: sans-serif;
+}
